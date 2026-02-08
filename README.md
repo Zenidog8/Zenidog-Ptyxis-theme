@@ -9,3 +9,6 @@ A theme for ptyxis terminal
 1. Delete the repository
    > ```bash cd .. && rm -rf Zenidog-Ptyxis-theme```
 1. Set it on the terminal configuration panel
+
+## Screenshoots
+![terminal theme](/Screenshot.png)
